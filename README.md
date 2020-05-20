@@ -1,8 +1,8 @@
 # Για τον Christoph Cox. Από την Τεχνική του Ήχου στην Τέχνη των Θορύβων;
 
-<p alignt="center"> ΓΙΩΤΑ ΑΝΔΡΙΑΚΑΙΝΑ </p>
+<p align="center"> ΓΙΩΤΑ ΑΝΔΡΙΑΚΑΙΝΑ </p>
 
-<p align="center"> <b> Για τον Christoph Cox.
+<p align="center"> <b> Για τον Christoph Cox. <br/>
 Από την Τεχνική του Ήχου στην Τέχνη των Θορύβων;
   </b> </p>
 
