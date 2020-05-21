@@ -55,7 +55,7 @@ Aπό τον Luigi Russolo στον Halim El-Dabh
 Παρά το γεγονός ότι ο Edison το 1878 εφευρίσκει τη μηχανή ηχογράφησης, αυτή δεν ήταν ευρέως διαθέσιμη, δεν είχε κυκλοφορήσει στο εμπόριο, και σίγουρα αυτό που αναζητούσε ο Rossolo το 1913 δεν ήταν φυσικά ένα μαγνητόφωνο [12.48]  
 
 <img src="./3_Thomas_Edison.jpg">
-#### Thomas Edison in his lab in 1888, after working long hours on his phonograph.[[3]]  
+<b> Thomas Edison in his lab in 1888, after working long hours on his phonograph.[[3]] </b>
 
 
 
