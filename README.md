@@ -125,9 +125,7 @@ Aπό τον Luigi Russolo στον Halim El-Dabh
 
 <p align="center">
 <img width="190" heigth="240" src="./8_Kurt_Customs.jpg">
-   
- 
-<img width="190" heigth="240" src="./9_Kurt_Merz.jpg"> <br/>
+<img width="190" heigth="240" src="./9_Kurt_Merz.jpg"> 
 Kurt Schwitters -Opened by Customs-1937  
  Kurt Schwitters – Merz Blauer Vogel (Blue Bird) -1922 
 </p>
