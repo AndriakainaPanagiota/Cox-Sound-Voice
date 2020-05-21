@@ -67,5 +67,8 @@ Aπό τον Luigi Russolo στον Halim El-Dabh
 
 Θα παίξω εδώ ένα σύντομο απόσπασμα από ένα διάσημο έργο  - το Ursonate (1922-32) του Kurt Switters. 
 
+[ακούγονται  ήχοι από το έργο του Kurt Switters…].[[4]]
+
+![Kurt Switchers] (4_Kurt_Schwitters.jpg)
 
 
