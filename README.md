@@ -69,6 +69,6 @@ Aπό τον Luigi Russolo στον Halim El-Dabh
 
 [ακούγονται  ήχοι από το έργο του Kurt Switters…].[[4]]
 
-![Kurt Switchers] (4_Kurt_Schwitters.jpg)
+![Kurt Switchers](4_Kurt_Schwitters.jpg)
 
 
