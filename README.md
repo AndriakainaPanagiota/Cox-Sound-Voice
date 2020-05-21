@@ -17,7 +17,7 @@
 
 Η διάλεξη του Cox, καθηγητή στο Hampshire College της Μασαχουσέτης, έχει τον τίτλο A Brief History of Sound Art, ο οποίος θα μπορούσε να αποδοθεί στα ελληνικά ως εξής, Τέχνη του Ήχου, Μια Σύντομη Ιστορία.  
 
-<p align="right>
+<p align="right">
 <img src="./2_Cox_Sounds.jpg"> <br />
  Christoph Cox makes sounds [lectures]                                          
 </p>
