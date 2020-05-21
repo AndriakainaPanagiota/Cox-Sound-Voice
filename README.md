@@ -125,4 +125,5 @@ Aπό τον Luigi Russolo στον Halim El-Dabh
 
 <p align="center">
 <img width="580" heigth="280" src="./7_eikona_ixos.jpg"> <br/>
+ <small>Γιώτα Ανδριάκαινα -2020</small>
 </p>
