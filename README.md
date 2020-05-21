@@ -69,6 +69,7 @@ Aπό τον Luigi Russolo στον Halim El-Dabh
 
 [ακούγονται  ήχοι από το έργο του Kurt Switters…].[[4]]
 
-<img width="226" heigth="302" src="./4_Kurt_Schwitters.jpg">
+<img width="226" heigth="302" src="./4_Kurt_Schwitters.jpg"> <br/>
+<b>Kurt Schwitters, Super-Bird-Song[[5]]</b>
 
 
