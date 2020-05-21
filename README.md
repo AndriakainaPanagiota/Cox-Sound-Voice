@@ -89,5 +89,6 @@ Aπό τον Luigi Russolo στον Halim El-Dabh
 
 <p align="center">
 <img src="./5_Pierre_Schaeffer.jpg">
- </p>
+ <b> Pierre Schaeffer[[6]] </b>
+</p>
 
