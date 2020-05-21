@@ -19,7 +19,7 @@
 
 <p align="right">
 <img src="./2_Cox_Sounds.jpg"> <br />
- Christoph Cox makes sounds [lectures]                                          
+ <b>Christoph Cox makes sounds [lectures]  </b>                                       
 </p>
 
 
