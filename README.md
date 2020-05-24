@@ -58,6 +58,7 @@ We should know that earlier than Schaeffer - Schaeffer become an important figur
 
 But earlier than that, actually in Egypt, a composer, a composer who was actually just beginning his life as a composer, Halim El-Dabh, began to compose on a wire recorder, that he had taken from Middle East, from Cairo.  He borrowed a recorded and started recording a piece he listened in Africa. The piece that remained of all this, is a piece he recorded at traditional Africa (this is his own description), part of a rite of exorcism. It is a short piece called The Expression of Zaar (It’s a ceremony called Zaar), women voices that are filtered in different ways. 
 
+Β)Μετάφραση του απομαγνητοφωνημένου αποσπάσματος στα ελληνικά_    Σχόλια ή σκέψεις πάνω στο κείμενο.
  
 <b> Πρόλογος –  Η Διάλεξη του κου Christoph Cox.
  Μια διάλεξη για τον Ήχο με πολύ κακό ήχο[[1]] </b>
