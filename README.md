@@ -7,6 +7,45 @@
 Από την Τεχνική του Ήχου στην Τέχνη των Θορύβων; <br /> <br />
 </b> <br /> <img width="750" height="322" src="./1_Steve_Reich.jpg"> <br />
  <b> Steve Reich, Clapping Music, 1972 </b> <br/> <br/> <br/> <br/>
+ 
+ Μέρος 1: Μεταγραφή 8' χωρίου από διάλεξη του C. Cox  (11:40-19:40)
+
+Α)Απομαγνητοφώνηση ενός αποσπάσματος διαρκείας 8 λεπτών από την εργασία 
+
+Russolo was a futurist painter, not a composer. Αnd if you know anything about the futurists, they were big in large scale proclamations, and of relegating all of the past in the dustbin of history, [10.48]. So, Russolo said that contemporary orchestra is useless, traditional musical instruments are worthless, we now need a new art form, I m gonna called this -the Art of Noises – and we need new instruments to make that happen. [11.07]
+
+In this text, in his manifesto, there is the longest quotation I have: 
+
+11:40-19:40
+
+«Musical sound is too limited in its variety of timbres […..] We must break out of this limited circle of sounds and conquer the infinity variety of noise sounds[….]. Let us cross a large modern capital with our ears more sensitive than our eyes. We will be delighted in distinguishing the eddying of water, air or gas in metal pipes, the muttering of motors that breath and pulse with an indisputable animality, the throbbing of valves, the bustle of pistons, the shrieks of mechanical saws, the starting of trams on the tracks, the cracking of whips, the flapping of awnings and flags. We will amuse ourselves by orchestrating together in our imagination the din of rolling shop shutters, the varied hubbub of train stations, iron works, thread mills, printing presses, electrical plants and subways».
+
+It was his idea that all these urban sounds could be heard aesthetically, and, in a sense, needed to be heard aesthetically, because Russolo’s argument was that now ours ears crave for more noises, and that all of the sounds of the past are too sweet, too sickly. Well, whether this is or not actually true, this is another question. [12.23]
+
+Despite the fact that Edison in 1878 invents this audio recording mechanism, this was not widely available …, it was not commercial available for some time, and certainly Russolo did not want a tape recorder. [12.48]
+
+So instead, he took upon himself to construct an orchestra of instruments which he called it intonarumori… that is, noise and toners …, and to make this music which we still thought as his music, I suppose, in a way. And here is a very brief clip of this …
+
+[sounds from intonarumori]
+
+This is a recent recording. The original one was destroyed in a fire. This is a recent recording of a fragment we have from Russolo intonarumori [13.42].
+
+Shortly after Russolo ‘s manifesto, the cultural fascination with noise was extended to poetry by futurists and dada artists who shot to eliminate meaning in favour of purely sonic values. 
+
+I will play a quick extract of the most famous Kurt Schwitters Ursonate -1922-32 
+
+[sounds by Kurt Schwitters]
+
+Recent recording of Schwitters himself doing recording was worse than this one, which was done by a recent contemporary sound artist named Christian Bok.
+
+So this reduction of language to voice and sound is a kind of constant feature throughout the history of sound poetry from the futurists in the 40’s and the letterists in the 50’s to Bob Kuban and contemporary sound artists, like Chrissie Morris and Christian Bok. 
+
+These were various efforts to think about noise and sound vis a vis language.
+
+When tape recorders become more commercial available to the portable tape recorders, became available in the 40’s, sonic artists finally begin to realize Rusollo’s vision, the vision of noise -the genre of noise.
+
+And a key figure here was a French radio engineer turn to composer, Pierre Schaeffer, who at 1848 broadcast over French radio what he called the concert of noises, consisted of pieces that he composed entirely from editings and recordings of sounds he had made. And he thought of it as a kind of  transporting into sound the kind of montage techniques available in cinema.
+ 
 <b> Πρόλογος –  Η Διάλεξη του κου Christoph Cox.
  Μια διάλεξη για τον Ήχο με πολύ κακό ήχο[[1]] </b>
 </p> 
