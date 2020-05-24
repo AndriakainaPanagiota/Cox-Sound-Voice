@@ -109,7 +109,7 @@ Aπό τον Luigi Russolo στον Halim El-Dabh
 Παρά το γεγονός ότι ο Edison το 1878 εφευρίσκει τη μηχανή ηχογράφησης, αυτή δεν ήταν ευρέως διαθέσιμη, δεν είχε κυκλοφορήσει στο εμπόριο, και σίγουρα αυτό που αναζητούσε ο Rossolo το 1913 δεν ήταν φυσικά ένα μαγνητόφωνο [12.48]  
 
 <img src="./3_Thomas_Edison.jpg"> <br/>
-##### Thomas Edison in his lab in 1888, after working long hours on his phonograph.[[3]] 
+##### Thomas Edison in his lab in 1888, after working long hours on his phonograph.[[2]](#link2) 
 
 Έτσι ξεκίνησε να το ψάχνει και να κατασκευάζει μια ορχήστρα οργάνων, την οποία ονόμασε Intorno Rumori. Το όνομα ήταν intonarumori…… θόρυβο-τονιστής …… Και έτσι έφτιαξε τη μουσική του την οποία ακόμα θεωρούμε ως τη δική του, κατά κάποιο τρόπο, μουσική, και εδώ είναι ένα σύντομο κλιπ  - ακούστε ένα δείγμα αυτής της δουλειάς –
 
@@ -121,10 +121,10 @@ Aπό τον Luigi Russolo στον Halim El-Dabh
 
 Θα παίξω εδώ ένα σύντομο απόσπασμα από ένα διάσημο έργο  - το Ursonate (1922-32) του Kurt Schwitters. 
 
-[ακούγονται  ήχοι από το έργο του Kurt Schwitters…].[[4]]
+[ακούγονται  ήχοι από το έργο του Kurt Schwitters…].[[3]](#link3)
 
 <img width="226" heigth="302" src="./4_Kurt_Schwitters.jpg"> <br/>
-<b>Kurt Schwitters, Super-Bird-Song[[5]]</b>
+<b>Kurt Schwitters, Super-Bird-Song[[4]](#link4)</b>
 
 
 Η πρωτότυπη ηχογράφηση από τον ίδιο τον Schwitters είναι κακή, αυτή που ακούσαμε είναι από έναν σύγχρονο ηχητικό καλλιτέχνη, τον Christian Bok.
@@ -145,7 +145,7 @@ Aπό τον Luigi Russolo στον Halim El-Dabh
 
 <p align="center">
 <img width="372" heigth="226" src="./5_Pierre_Schaeffer.jpg"> <br/>
- <b> Pierre Schaeffer[[6]] </b>
+ <b> Pierre Schaeffer[[5]](#link5) </b>
 </p>
 
 
@@ -157,7 +157,7 @@ Aπό τον Luigi Russolo στον Halim El-Dabh
 
 <p align="center">
 <img width="280" heigth="340" src="./6_Halim_El_Dabh.jpg"> <br/>
- <b> Halim El-Dabh Drumming Workshop [[7]] </b>
+ <b> Halim El-Dabh Drumming Workshop [[6]](#link6) </b>
 </p>
 
 ### Μέρος 2: Σχόλια
@@ -165,9 +165,9 @@ Aπό τον Luigi Russolo στον Halim El-Dabh
 Πέντε  σημεία της διάλεξης με αναφορά σε καλλιτέχνες, καλλιτεχνικά κινήματα, ιδέες/ έννοιες –εικαστική εφαρμογή (Εργασία με τίτλο: Ear,   The Temple where Otherness is Welcomed, Τranslated , Understood or Misunderstood)
 
 
-Ζυρίχη,1916-1922 [[8]] .Εκεί ξεκινάει το  dada που δύσκολα θα μπορούσε να χαρακτηριστεί σαν κίνημα ή σαν μια καλλιτεχνική τάση επειδή δεν είχε κάποιες ξεκάθαρες προσδιορισμένες αρχές. Όταν ρωτούσαν τους Hugo Ball ,Marcel Duchamp και   Kurt Schwitters τι είναι dada απαντούσαν :το dada είναι μια κατάσταση του πνεύματος , με πρόθεση να σοκάρουν. Πίστευαν ότι η λογική είχε εγκαταλειφθεί από την ανθρωπότητα κι ότι όποιος έπαιρνε τη ζωή στα σοβαρά  ήταν ξεγραμμένος. Τάχθηκαν κατά του πολέμου. Διακήρυτταν  τον «απόλυτο» παραλογισμό σαν όπλο ενάντια στη λογική του πολέμου.
+Ζυρίχη,1916-1922 [[7]](#link7). Εκεί ξεκινάει το  dada που δύσκολα θα μπορούσε να χαρακτηριστεί σαν κίνημα ή σαν μια καλλιτεχνική τάση επειδή δεν είχε κάποιες ξεκάθαρες προσδιορισμένες αρχές. Όταν ρωτούσαν τους Hugo Ball ,Marcel Duchamp και   Kurt Schwitters τι είναι dada απαντούσαν :το dada είναι μια κατάσταση του πνεύματος , με πρόθεση να σοκάρουν. Πίστευαν ότι η λογική είχε εγκαταλειφθεί από την ανθρωπότητα κι ότι όποιος έπαιρνε τη ζωή στα σοβαρά  ήταν ξεγραμμένος. Τάχθηκαν κατά του πολέμου. Διακήρυτταν  τον «απόλυτο» παραλογισμό σαν όπλο ενάντια στη λογική του πολέμου.
 1. [16.56]  Το πραγματικό ενδιαφέρον των ντανταϊστών  για τη μουσική εκδηλωνόταν μόνο όταν αυτή υπηρετούσε άλλες μορφές τέχνης.Σ΄αυτές τις λειτουργίες , η μουσική μπορούσε να υπάρχει και χωρίς τη σταθερή τονικότητα, που μέχρι τότε ήταν ένα βασικό στοιχείο της δομής της. Με την κατάργηση της τονικότητας δηλαδή των μουσικών ήχων, το μόνο που απέμενε ήταν ένας ρυθμικός θόρυβος .
-2. [15.7] Ο ιδρυτής του νταντά , Hugo Ball [[9]] έφτασε στο «ηχοποίημα» την διαδοχή συλλαβών δίχως νόημα ή περιεχόμενο ,απαλλαγμένων από συμβολικά νοήματα ,τίποτα περισσότερο από ακουστικό υλικό. Να πως ήταν περίπου ένα από αυτά τα ηχο-ποιήματα:
+2. [15.7] Ο ιδρυτής του νταντά , Hugo Ball [[8]](#link8) έφτασε στο «ηχοποίημα» την διαδοχή συλλαβών δίχως νόημα ή περιεχόμενο ,απαλλαγμένων από συμβολικά νοήματα ,τίποτα περισσότερο από ακουστικό υλικό. Να πως ήταν περίπου ένα από αυτά τα ηχο-ποιήματα:
 Γκάτζι μπέρι μπίμπα 
 Γκλαντριντί λαουλί λόνι καντόρι
 Γκατζάμα μπιμ μπέρι γκλασάλα 
@@ -192,3 +192,17 @@ Kurt Schwitters -Opened by Customs-1937
  
 ### Βιβλιογραφία
 <a name="link1"></a>[1] Ενδιαφέρον έχει και το σχετικό κείμενο του Κώστα Κυριακάκη,   Luigi Russolo – Η Τέχνη Των Θορύβων, El Sito, https://elsito.gr/index.php/arts/item/670-luigi-russolo-the-art-of-noise. Βλέπε επίσης, Σιωπή και Θόρυβος, Κείμενα στο περιοδικό ALLOGLOTTA, ΤΕΥΧΟΣ 1, ΦΘΙΝΟΠΩΡΟ 2009.
+
+<a name="link2"></a>[2] Randall Stross, Edison the Inventor, Edison the Showman, The New York Times, March 11, 2007. https://www.nytimes.com/2007/03/11/business/yourmoney/11edison.html. Βλέπε επίσης, [ citation, Patrick Keller, Thomas Edison and the phonograph, in The Big Séance, February 19, 2012,  https://bigseance.com/2012/02/19/thomas-edison-and-the-phonograph/
+
+<a name="link3"></a>[3] Some words to Kurt Schwitters' URSONATE, by Jaap Blonk, «Kurt Schwitters was born in Hannover in 1887. He studied at the Applied Arts School, the Art Academy and the Institute of Technology(…)». http://www.jaapblonk.com/Texts/ursonatewords.html
+
+<a name="link4"></a>[4] Image taken at the Signals exhibition at England & Co gallery. PoetryFilm - July 4, 2014. https://poetryfilm.org/2014/07/04/533/
+
+<a name="link5"></a>[5] Rob Young, «Pierre Schaeffer and the Birth of Musique Concrète», Frieze – Profiles, 01 January 2012. https://frieze.com/article/music-22
+
+<a name="link6"></a>[6] Photo by Gerry Simon, Standing Rock Cultural Arts , Samstag, 14 November 2009 — Sonntag, 15 November 2009. https://www.last.fm/de/festival/1169858+Halim+El-Dabh+Drumming+Workshop
+
+<a name="link7"></a>[7] Willy Verkauf ,Dada Μονογραφία ενός κινήματος ,Εκδόσεις : Ελεύθερος τύπος,1987.σ.7-9
+
+<a name="link8"></a>[8] Willy Verkauf ,Dada Μονογραφία ενός κινήματος ,Εκδόσεις : Ελεύθερος τύπος,1987.σ.53-54
