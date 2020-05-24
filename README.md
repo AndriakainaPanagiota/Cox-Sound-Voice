@@ -45,6 +45,19 @@ These were various efforts to think about noise and sound vis a vis language.
 When tape recorders become more commercial available to the portable tape recorders, became available in the 40’s, sonic artists finally begin to realize Rusollo’s vision, the vision of noise -the genre of noise.
 
 And a key figure here was a French radio engineer turn to composer, Pierre Schaeffer, who at 1848 broadcast over French radio what he called the concert of noises, consisted of pieces that he composed entirely from editings and recordings of sounds he had made. And he thought of it as a kind of  transporting into sound the kind of montage techniques available in cinema.
+
+The most famous of this is, of course, a recording of train sounds he recorded in Paris. 
+
+I play a brief bit of this [sounds ]
+
+Pierre Schaeffer at GRM Studio Paris 1951
+
+Schaeffer called his compositon «concrete music» to distinguish it from instrumental music, which he called  «abstract music» because it had to pass through the detour of the composer, the composer had to pass that music through the detour of notation, and then, to the musicians performing. Whereas Schaeffer found that his music receive things from the world and just edit them directly  - and he thought of it as a much more concrete way of making music. 
+
+We should know that earlier than Schaeffer - Schaeffer become an important figure that all the composers from Europe and other places flocked in his studio which became a center for avant garde music.
+
+But earlier than that, actually in Egypt, a composer, a composer who was actually just beginning his life as a composer, Halim El-Dabh, began to compose on a wire recorder, that he had taken from Middle East, from Cairo.  He borrowed a recorded and started recording a piece he listened in Africa. The piece that remained of all this, is a piece he recorded at traditional Africa (this is his own description), part of a rite of exorcism. It is a short piece called The Expression of Zaar (It’s a ceremony called Zaar), women voices that are filtered in different ways. 
+
  
 <b> Πρόλογος –  Η Διάλεξη του κου Christoph Cox.
  Μια διάλεξη για τον Ήχο με πολύ κακό ήχο[[1]] </b>
