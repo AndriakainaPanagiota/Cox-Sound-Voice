@@ -202,9 +202,9 @@ Kurt Schwitters -Opened by Customs-1937
 
 <a name="link4"></a>[4] Image taken at the Signals exhibition at England & Co gallery. PoetryFilm - July 4, 2014. https://poetryfilm.org/2014/07/04/533/
 
-<a name="link5"></a>[5] Rob Young, «Pierre Schaeffer and the Birth of Musique Concrète», Frieze – Profiles, 01 January 2012. https://frieze.com/article/music-22
+<a id="link5"></a>[5] Rob Young, «Pierre Schaeffer and the Birth of Musique Concrète», Frieze – Profiles, 01 January 2012. https://frieze.com/article/music-22
 
-<a name="link6"></a>[6] Photo by Gerry Simon, Standing Rock Cultural Arts , Samstag, 14 November 2009 — Sonntag, 15 November 2009. https://www.last.fm/de/festival/1169858+Halim+El-Dabh+Drumming+Workshop
+<a id="link6"></a>[6] Photo by Gerry Simon, Standing Rock Cultural Arts , Samstag, 14 November 2009 — Sonntag, 15 November 2009. https://www.last.fm/de/festival/1169858+Halim+El-Dabh+Drumming+Workshop
 
 <a name="link7"></a>[7] Willy Verkauf ,Dada Μονογραφία ενός κινήματος ,Εκδόσεις : Ελεύθερος τύπος,1987.σ.7-9
 
