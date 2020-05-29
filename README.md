@@ -145,7 +145,7 @@ Aπό τον Luigi Russolo στον Halim El-Dabh
 
 <p align="center">
 <img width="372" heigth="226" src="./5_Pierre_Schaeffer.jpg"> <br/>
- <b> Pierre Schaeffer[[5]](#link5) </b>
+ <b> Pierre Schaeffer<a href="#link5">[5]</a> </b>
 </p>
 
 
@@ -157,7 +157,7 @@ Aπό τον Luigi Russolo στον Halim El-Dabh
 
 <p align="center">
 <img width="280" heigth="340" src="./6_Halim_El_Dabh.jpg"> <br/>
- <b> Halim El-Dabh Drumming Workshop [[6]](#link6) </b>
+ <b> Halim El-Dabh Drumming Workshop <a href="#link6">[6]</a> </b>
 </p>
 
 ### Μέρος 2: Σχόλια
